@@ -14,7 +14,7 @@
 
     Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
-![11.png](https://github.com/LipinRoman/9.3/blob/master/img/11.png)
+![11.png](https://github.com/LipinRoman/9.3/blob/main/img/11.png)
 
 Задание 2
 
@@ -46,7 +46,7 @@
 
     Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
-![31.png](https://github.com/LipinRoman/9.3/blob/master/img/31.png)
+![31.png](https://github.com/LipinRoman/9.3/blob/main/img/31.png)
 
 Задание 4
 
@@ -61,7 +61,7 @@
 
     Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
-![41.png](https://github.com/LipinRoman/9.3/blob/master/img/41.png)
+![41.png](https://github.com/LipinRoman/9.3/blob/main/img/41.png)
 
 Задание 5* со звёздочкой
 
